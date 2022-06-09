@@ -21,7 +21,7 @@ const Banner = () => {
       />
         </h2>
         <div className='mt-4'>
-        <button class="btn btn-primary mr-8">Hire Me</button>
+        <button class="btn btn-primary mr-4">Hire Me</button>
       <button class="btn btn-primary"> <a target='_blank' href='https://drive.google.com/file/d/1Kv2ZRquImDNwwGn8J90NSNnLkfSwcqs2/view'>Download Resume</a></button>
         </div>
     </div>
