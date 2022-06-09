@@ -13,7 +13,9 @@ import skill10 from '../../images/skills/skill10.png'
 
 const Skills = () => {
     return (
-        <div className='grid lg:grid-cols-5 md:grid-cols-1 sm:grid-cols-1 grid-cols-1 gap-12'>
+       <div>
+           <h2 className='text-4xl font-bold text-primary'>My Skills</h2>
+            <div className='grid lg:grid-cols-5 md:grid-cols-1 sm:grid-cols-1 grid-cols-1 gap-12'>
             <div className='shadow-xl border-solid border-2 border-primary'><img src={skill1} alt='' width={250} height={250}/></div>
             <div className='shadow-xl border-solid border-2 border-primary'><img src={skill2} alt='' width={250} height={250}/></div>
             <div className='shadow-xl border-solid border-2 border-primary'><img src={skill3} alt='' width={250} height={250}/></div>
@@ -26,6 +28,7 @@ const Skills = () => {
             <div className='shadow-xl border-solid border-2 border-primary'><img src={skill10} alt='' width={250} height={250}/></div>
             
         </div>
+       </div>
     );
 };
 
