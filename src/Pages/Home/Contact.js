@@ -21,9 +21,22 @@ const Contact = () => {
 
   return (
     
-   <div className='h-screen flex flex-col 
-   items-center justify-center'>
-      
+   <div className='grid lg:grid-cols-2 md:grid-cols-1 sm:grid-cols-1 grid-cols-1 my-16 place-items-center'>
+     <div className='mt-8'>
+
+       <label class="label">
+    <h2 class="label-text text-xl text-primary font-semibold">Address: <span className='text-black'>Mirpur-10, Dhaka, Bangladesh</span></h2>
+      </label>
+       <label class="label">
+    <h2 class="label-text text-xl text-primary font-semibold">Phone: <span className='text-black'>+8801518301098</span></h2>
+      </label>
+       <label class="label">
+    <h2 class="label-text text-xl text-primary font-semibold">Email: <span className='text-black'>mohsinkabirseo@gmail.com</span></h2>
+      </label>    
+     </div>
+
+      <div>
+      <h1 className='text-3xl font-bold text-primary mr-60'>Contact Me</h1>
       <form ref={form} onSubmit={sendEmail} className='form-control w-full max-w-xs'>
       <label class="label">
     <span class="label-text">Name</span>
@@ -40,6 +53,7 @@ const Contact = () => {
   <textarea type="message" class="textarea input-bordered " placeholder="Message" ></textarea><br/>
   <input type="submit" value="Send" class="btn" />
       </form>
+      </div>
    </div>
 
 );
