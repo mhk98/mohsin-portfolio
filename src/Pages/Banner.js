@@ -3,7 +3,7 @@ import Typical from 'react-typical'
 import profile from '../images/profile.jpg'
 const Banner = () => {
     return (
-        <div class=" my-16">
+        <div class=" py-12 bg-neutral">
 
 
   <div className='flex flex-col 
@@ -13,7 +13,7 @@ const Banner = () => {
 
 <div>
         <h1 className='text-5xl text-primary font-bold'>Md. Mohsin Kabir</h1>
-        <h2 className='text-2xl font-bold'>Junior <Typical steps={[
+        <h2 className='text-2xl font-bold text-white'>Junior <Typical steps={[
             'Web Developer.', 1000,
             'Frontend Developer.', 1000,
             'React Developer.', 1000,
