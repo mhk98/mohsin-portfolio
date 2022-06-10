@@ -26,11 +26,11 @@ const Banner = () => {
         </h2>
         <div className='mt-4'>
         <button class="btn btn-primary mr-4">Hire Me</button>
-      <button class="btn btn-primary"> <a target='_blank' href='https://drive.google.com/file/d/1Kv2ZRquImDNwwGn8J90NSNnLkfSwcqs2/view'>Download Resume</a></button>
+      <button class="btn btn-primary"> <a target='_blank' href='https://drive.google.com/file/d/1sTyafWWH03eBEFmf5RbNVWy5z2lOqxmT/view?usp=sharing'>Download Resume</a></button>
         </div>
     </div>
 </div>
     );
 };
 
-export default Banner;
+export default Banner
