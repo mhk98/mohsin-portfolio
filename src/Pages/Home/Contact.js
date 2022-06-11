@@ -36,8 +36,8 @@ const Contact = () => {
      </div>
 
       <div>
-      <h1 className='text-3xl font-bold text-primary mr-60'>Contact Me</h1>
-      <form ref={form} onSubmit={sendEmail} className='form-control w-full max-w-xs'>
+      <h1 className='text-3xl font-bold text-primary'>Contact Me</h1>
+      <form ref={form} onSubmit={sendEmail} className='form-control max-w-xs'>
       <label class="label">
     <span class="label-text text-white font-bold">Name</span>
   </label>
