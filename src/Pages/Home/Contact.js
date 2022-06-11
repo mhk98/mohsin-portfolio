@@ -25,7 +25,7 @@ const Contact = () => {
      <div className='mt-8'>
 
        <label class="label">
-    <h2 class="label-text text-xl text-primary font-semibold">Address: <span className='text-white'>Mirpur-10, Dhaka, Bangladesh</span></h2>
+    <h2 class="label-text text-xl text-primary font-semibold">Address: <span className='text-white'>Dhaka, Bangladesh</span></h2>
       </label>
        <label class="label">
     <h2 class="label-text text-xl text-primary font-semibold">Phone: <span className='text-white'>+8801518301098</span></h2>
