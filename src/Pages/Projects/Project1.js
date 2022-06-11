@@ -6,7 +6,7 @@ import project3 from '../../images/project/project1/project3.png';
 
 const Project1 = () => {
     return (
-        <div className='flex bg-neutral justify-evenly mx-12 my-20'>
+        <div className='grid lg:grid-cols-2 md:grid-cols-1 sm:grid-cols-1 grid-cols-1 mx-12 my-20'>
           <div className=''>
           <div class="carousel border-primary">
   <div id="item1" class="carousel-item w-full">
