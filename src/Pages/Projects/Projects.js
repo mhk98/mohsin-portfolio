@@ -9,7 +9,7 @@ const Projects = () => {
     return (
         <div className='my-16'>
             <h1 className='text-center text-4xl my-12 text-primary font-bold'>My Projects</h1>
-            <div className='mt-5 ml-12 grid lg:grid-cols-3 md:grid-cols-1 sm:grid-cols-1 grid-cols-1 gap-16 place-items-center'>
+            <div className='mt-5 grid lg:grid-cols-3 md:grid-cols-1 sm:grid-cols-1 grid-cols-1 gap-16 place-items-center'>
             
             <div class="card w-96 shadow-xl bg-neutral rounded-xl border-solid border-2 border-primary">
                 <figure><img src={project1} alt="blog1" width={360} height={206}/></figure>
