@@ -1,0 +1,37 @@
+[
+  {
+    "id": 1,
+    "image": "/dark/assets/imgs/freelancer/works/1.png",
+    "title": "Createabit Design",
+    "category": "Branding",
+    "date": "2023"
+  },
+  {
+    "id": 2,
+    "image": "/dark/assets/imgs/freelancer/works/2.png",
+    "title": "HR Management",
+    "category": "Branding",
+    "date": "2023"
+  },
+  {
+    "id": 3,
+    "image": "/dark/assets/imgs/freelancer/works/3.png",
+    "title": "Project Management Technology",
+    "category": "Branding",
+    "date": "2023"
+  },
+  {
+    "id": 4,
+    "image": "/dark/assets/imgs/freelancer/works/4.png",
+    "title": "Auto Shop Management",
+    "category": "Branding",
+    "date": "2023"
+  },
+  {
+    "id": 5,
+    "image": "/dark/assets/imgs/freelancer/works/5.png",
+    "title": "Bangabandhu Tunnel",
+    "category": "Branding",
+    "date": "2023"
+  }
+]

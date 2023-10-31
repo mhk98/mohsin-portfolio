@@ -1,0 +1,26 @@
+[
+  {
+    "id": 1,
+    "image": "assets/imgs/serv-icons/0.png",
+    "title": "Design Strategy",
+    "text": "Creating a higher spacing and how people move through a unique."
+  },
+  {
+    "id": 2,
+    "image": "assets/imgs/serv-icons/1.png",
+    "title": "Product Leadership",
+    "text": "Creating a higher spacing and how people move through a unique."
+  },
+  {
+    "id": 3,
+    "image": "assets/imgs/serv-icons/0.png",
+    "title": "Frontend Development",
+    "text": "Creating a higher spacing and how people move through a unique."
+  },
+  {
+    "id": 4,
+    "image": "assets/imgs/serv-icons/1.png",
+    "title": "Backend Development",
+    "text": "Creating a higher spacing and how people move through a unique."
+  }
+]

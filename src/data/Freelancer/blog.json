@@ -1,0 +1,16 @@
+[
+  {
+    "id": 1,
+    "title": "Installing NodeJs on your device.",
+    "image": "/dark/assets/imgs/sass-img/blog/1.jpg",
+    "date": "August 6, 2022",
+    "tags": ["Marketing", "Design"]
+  },
+  {
+    "id": 2,
+    "title": "Difference between GatsbyJs & NextJS.",
+    "image": "/dark/assets/imgs/sass-img/blog/2.jpg",
+    "date": "August 6, 2022",
+    "tags": ["Marketing", "Design"]
+  }
+]
