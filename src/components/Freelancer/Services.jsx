@@ -1,9 +1,9 @@
 import React from "react";
 import Link from "next/link";
 //= Components
-import StatementSplitter from "../Common/StatementSplitter";
 //= Data
 import data from "@/data/Freelancer/services.json";
+import StatementSplitter from "@/common/StatementSplitter";
 
 function Services({ lightMode }) {
   return (

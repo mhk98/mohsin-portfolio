@@ -4,7 +4,7 @@ import Head from "next/head";
 //= Layout
 import Layout from "@/layouts/default";
 //= Components
-import Loader from "@/components/Common/Loader";
+
 import Navbar from "@/components/Freelancer/Navbar";
 import Header from "@/components/Freelancer/Header";
 import Marq from "@/components/Freelancer/Marq";
@@ -16,6 +16,7 @@ import Testimonials from "@/components/Freelancer/Testimonials";
 import Blog from "@/components/Freelancer/Blog";
 import Contact from "@/components/Freelancer/Contact";
 import Footer from "@/components/Freelancer/Footer";
+import Loader from "@/common/Loader";
 
 function HomeFreelancer() {
   useEffect(() => {

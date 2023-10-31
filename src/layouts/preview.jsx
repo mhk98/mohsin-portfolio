@@ -1,12 +1,13 @@
-import React, { useEffect } from 'react';
+import React, { useEffect } from "react";
 //= Packages
 import Head from "next/head";
 //= Components
-import Loader from '@/components/Common/Loader';
-import Cursor from '@/components/Common/Cursor';
-import ProgressScroll from '@/components/Common/ProgressScroll';
+
 //= Scripts
-import correctStylesheetsOrder from '@/common/correctStylesheetsOrder';
+import correctStylesheetsOrder from "@/common/correctStylesheetsOrder";
+import Loader from "@/common/Loader";
+import Cursor from "@/common/Cursor";
+import ProgressScroll from "@/common/ProgressScroll";
 
 const PreviewLayout = ({ children }) => {
   useEffect(() => {

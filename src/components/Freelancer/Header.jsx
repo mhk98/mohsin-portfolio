@@ -59,8 +59,7 @@ function Header() {
                 </div>
                 <div className="col-lg-8 offset-lg-1 valign order1 md-mb50">
                   <p className="fz-16">
-                    We appreciate your trust greatly our clients choose us & our
-                    products because they know we are the best.
+                  We deeply value the trust of our clients who select us and our web development services because they recognize our commitment to excellence, making us their top choice.
                   </p>
                 </div>
               </div>
